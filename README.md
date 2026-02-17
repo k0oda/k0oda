@@ -3,9 +3,9 @@
 <td valign="center">
 
 ```fortran
-k0oda
+k0oda 🫡
 ---------------
-Cooking at quantumevm.com
+🧑‍🍳 Cooking at quantumevm.com
 ```
 
 ```fortran
