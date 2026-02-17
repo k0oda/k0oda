@@ -1,6 +1,22 @@
-## k0oda
-### Coding smth and enjoy it
+<table>
+<tr>
+<td valign="center">
 
+```fortran
+k0oda
+---------------
+Cooking at quantumevm.com
+```
+
+```fortran
+Located in Russia
+TG | @dak0oda
+DS | @dak0oda
+```
+
+</td>
+<td valign="center">
+                        
 ```bash
             ^^                   @@@@@@@@@
        ^^       ^^            @@@@@@@@@@@@@@@
@@ -13,3 +29,7 @@
  ~  ~       ~ ~      ~           ~~ ~~~~~~  ~      ~~  ~             ~~
        ~             ~        ~      ~      ~~   ~             ~
 ```
+
+</td>
+</tr>
+</table>
