@@ -18,11 +18,11 @@ DS | @dak0oda
 ```fortran
 LEETCODE
 ---------------
-Solved : 31 / 4115
-Easy   : 22   [█░░░░░░░░░]
+Solved : 32 / 4123
+Easy   : 23   [█░░░░░░░░░]
 Medium : 8    [█░░░░░░░░░]
 Hard   : 1    [█░░░░░░░░░]
-Rank   : #3,671,848
+Rank   : #3,672,894
 ```
 <!-- LEETCODE:END -->
 
